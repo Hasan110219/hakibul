@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Dec 2019 16:36:58 at https://e-wallet360.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://e-wallet360.com/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://e-wallet360.com/ -O1 "C:\Users\Public\e walllet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://e-wallet360.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:48:04	Error: 	"Not Found" (404) at link https://e-wallet360.com/temp/images/logo.png (from https://e-wallet360.com/)
+16:48:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://e-wallet360.com/assets/temp/svgicon/circle.svg (from https://e-wallet360.com/)
+16:48:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://e-wallet360.com/assets/temp/svgicon/smot.svg (from https://e-wallet360.com/)
+16:48:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://e-wallet360.com/twtter (from https://e-wallet360.com/)
+16:48:57	Error: 	"Not Found" (404) at link https://e-wallet360.com/linkedin (from https://e-wallet360.com/)
+16:48:57	Error: 	"Not Found" (404) at link https://e-wallet360.com/youtube (from https://e-wallet360.com/)
+16:48:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Public/e walllet/e-wallet360.com/assets/temp/svgicon/yo.svg
+16:48:57	Error: 	"Not Found" (404) at link https://e-wallet360.com/home/twtter (from https://e-wallet360.com/home/paymentproff)
+16:48:57	Error: 	"Not Found" (404) at link https://e-wallet360.com/home/linkedin (from https://e-wallet360.com/home/paymentproff)
+16:48:57	Error: 	"Not Found" (404) at link https://e-wallet360.com/home/youtube (from https://e-wallet360.com/home/paymentproff)
+16:49:03	Error: 	"Not Found" (404) at link https://e-wallet360.com/twtter (from https://e-wallet360.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 5 seconds : 70 links scanned, 59 files written (1850692 bytes overall) [1358042 bytes received at 1873 bytes/sec], 704237 bytes transferred using HTTP compression in 27 files, ratio 24%
+(7 errors, 4 warnings, 0 messages)
